@@ -1,0 +1,45 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django project settings file
+*.settings
+
+# Django development server
+*.runserver
+
+# Local development environment (example: virtualenv or pipenv)
+/.venv/
+/.env/
+
+# Database files
+*.db
+*.sqlite3
+
+# Media and static files (generated during development)
+/media/
+/static/
+
+# Secret key (keep it secure and don't commit it)
+*.secret_key
+
+# Log files
+/logs/
+
+# Temporary files
+*.swp
+*~
+*.bak
+*.tmp
+*.log
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+
+# Compiled translations
+locale/
+
+# Ignore any local configuration files specific to your setup
+local_settings.py
