@@ -15,7 +15,7 @@ __pycache__/
 
 # Database files
 *.db
-*.sqlite3
+# *.sqlite3
 
 # Media and static files (generated during development)
 /media/
