@@ -43,3 +43,4 @@ locale/
 
 # Ignore any local configuration files specific to your setup
 local_settings.py
+.vercel
